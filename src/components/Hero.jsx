@@ -32,10 +32,10 @@ const Hero = () => {
               animate="visible"
               className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-3xl tracking-tight text-transparent"
             >
-              Front-End Developer
+              Front-End Developer & Back-End Developer
             </motion.span>
             <motion.p
-              className="my-2 max-w-xl py-6 font-light tracking-tighter"
+              className="my-2 max-w-xl py-6 font-light tracking-tighter capitalize"
               variants={container(1)}
               initial="hidden"
               animate="visible"

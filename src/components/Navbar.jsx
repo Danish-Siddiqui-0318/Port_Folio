@@ -16,8 +16,6 @@ const Navbar = () => {
         <a href="https://github.com/Danish-Siddiqui-0318" target="_blank">
           <FaGithub />
         </a>
-        {/* <FaInstagram />
-        <FaSquareXTwitter /> */}
       </div>
     </nav>
   );

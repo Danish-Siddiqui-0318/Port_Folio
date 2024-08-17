@@ -15,27 +15,31 @@ export const PROJECTS = [
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart.",
     technologies: ["HTML", "CSS", "JS", "Bootstrap", "React.JS"],
+    link: "https://freshcart-react-app.netlify.app/",
   },
   {
-    title: "Task Management App",
+    title: "Netflix Clone",
     image: project2,
     description:
-      "A to-do app built with ReactJS that enables users to efficiently manage and organize their tasks.",
-    technologies: ["HTML", "CSS", "JS", "TAILWINDCSS", "React.JS"],
+      "A Netflix clone built using React, offering a sleek and responsive user interface with dynamic content rendering and seamless browsing experience.",
+    technologies: ["HTML", "CSS", "JS", "TailwindCSS", "React.JS"],
+    link: "https://astounding-churros-2d04ef.netlify.app/",
   },
   {
     title: "Portfolio Website",
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "JS", "TAILWINDCSS", "React.JS"],
+    technologies: ["HTML", "CSS", "JS", "TailwindCSS", "React.JS"],
+    link: "/",
   },
   {
-    title: "Currency Converter",
+    title: "Spotify Clone",
     image: project4,
     description:
-      "A currency converter built with ReactJS that allows users to quickly and accurately convert between different currencies.",
-    technologies: ["HTML", "CSS", "JS", "TAILWINDCSS", "React.JS"],
+      "An engaging Spotify clone built with React and Tailwind CSS, offering a sleek and responsive user interface to browse and play music seamlessly.",
+    technologies: ["HTML", "CSS", "JS", "TailwindCSS", "React.JS"],
+    link: "https://sparkling-nasturtium-dab81d.netlify.app/",
   },
 ];
 
